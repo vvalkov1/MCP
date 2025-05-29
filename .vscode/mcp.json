@@ -1,0 +1,7 @@
+{
+	"servers": {
+		"my-mcp-server-a7160f39": {
+			"url": "http://localhost:3100/mcp"
+		}
+	}
+}
